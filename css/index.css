@@ -16,15 +16,6 @@ header{
     
 }
 
-/* .gallery{
-    width: 90%;
-    height: 450px;
-    display:block;
-    margin:auto;
-    margin-top: 30px;
-
-} */
-
 footer{
     background-color: #645454;
     width: 100%;
@@ -43,11 +34,11 @@ footer p{
 }
 
 
-.container img{
+.container .principal{
     opacity: .7;
 }
 
-.container img:hover{
+.container .principal:hover{
     opacity: 1;
 }
 
