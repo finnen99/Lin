@@ -9,8 +9,6 @@ xhttp.onreadystatechange = function() {
             document.getElementById("titulo_tarjeta"+id).innerHTML = txt[index];
             document.getElementById("titulo_modal"+id).innerHTML = txt[index];
             id = id +1;
-            console.log(id);
-            
         }
     }
 };

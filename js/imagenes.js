@@ -28,8 +28,6 @@ for(imagen of imagenes){
     </div>
     `
 
-    id = id +1;
-    console.log(id);
-    
+    id = id +1;    
 };
 
