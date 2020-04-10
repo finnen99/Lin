@@ -9,9 +9,7 @@ archivo.onreadystatechange = function(){
             ${parrafo}
             `;
             index = index+1;
-        }
-        console.log(parrafos);
-        
+        }    
     }
 };
 archivo.open("GET", "js/parrafos.txt", true);
